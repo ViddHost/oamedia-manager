@@ -13,7 +13,7 @@ Media manager for `local` disk.
 ## Installation
 
 ```shell
-composer require ViddHost/oamedia-manager
+composer require viddhost/oamedia-manager
 
 php artisan admin:import media-manager
 ```
