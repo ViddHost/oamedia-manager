@@ -1,14 +1,7 @@
 Media manager for open-admin
 ===============================
 
-<p align="center">
-
-[![StyleCI](https://styleci.io/repos/384432915/shield?branch=main)](https://styleci.io/repos/387600925)
-[![Packagist](https://img.shields.io/github/license/open-admin-org/media-manager.svg?style=flat-square&color=brightgreen)](https://packagist.org/packages/open-admin-ext/media-manager)
-[![Total Downloads](https://img.shields.io/packagist/dt/open-admin-ext/media-manager.svg?style=flat-square)](https://packagist.org/packages/open-admin-ext/media-manager)
-[![Pull request welcome](https://img.shields.io/badge/pr-welcome-green.svg?style=flat-square&color=brightgreen)]()
-
-</p>
+ 
 
 Media manager for `local` disk.
 
@@ -20,7 +13,7 @@ Media manager for `local` disk.
 ## Installation
 
 ```shell
-composer require open-admin-ext/media-manager
+composer require ViddHost/oamedia-manager
 
 php artisan admin:import media-manager
 ```
