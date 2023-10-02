@@ -1,9 +1,9 @@
 {
-    "name": "open-admin-ext/media-manager",
+    "name": "ViddHost/oamedia-manager",
     "description": "Media manager for open-admin",
     "type": "library",
     "keywords": ["open-admin", "media", "manager"],
-    "homepage": "https://github.com/open-admin-org/media-manager",
+    "homepage": "https://github.com/ViddHost/oamedia-manager",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "open-admin-org/open-admin": "~1.0"
+        "snowsoft/open-admin": "~v0.01"
     },
     "autoload": {
         "psr-4": {
