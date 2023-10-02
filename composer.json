@@ -1,5 +1,5 @@
 {
-    "name": "ViddHost/oamedia-manager",
+    "name": "viddhost/oamedia-manager",
     "description": "Media manager for open-admin",
     "type": "library",
     "keywords": ["open-admin", "media", "manager"],
